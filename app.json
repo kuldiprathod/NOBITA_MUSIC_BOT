@@ -7,9 +7,9 @@
         "Telegram Bot",
         "Vidio Vc Steramer"
     ],
-    "website": "https://t.me/DeeCodeBots",
-    "repository": "https://github.com/Sammy-XD/VcVideoPlayer",
-    "success_url": "https://t.me/DeeCodeBots",
+    "website": "https://t.me/AAPLI_YAARI",
+    "repository": "https://github.com/kuldiprathod/NOBITA_MUSIC_BOT",
+    "success_url": "https://t.me/AAPLI_YAARI",
     "env": {
         "API_ID": {
             "description": "Your APP_ID from my.telegram.org",
@@ -40,7 +40,7 @@
             "required": true
         },
         "SOURCE_CODE": {
-            "description": "put your GitHub link like this GitHub.com/Sammy-XD/VcVideoPlayer",
+            "description": "put your GitHub link like this http://Github.com/kuldiprathod/NOBITA_MUSIC_BOT",
             "required": true 
         },
         "BOT_USERNAME": {

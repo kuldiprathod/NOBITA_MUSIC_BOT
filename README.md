@@ -9,21 +9,15 @@
 ## ✨ Heroku Deploy ✨
 The easiest way to deploy this Bot is via Heroku.
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kuldiprathod/VcVideoPlayer)
-
-
-# Our Credit 🔥
-
-<a href="https://t.me/BotDuniya"><img src="https://img.shields.io/badge/Louis-1b77FF.svg?logo=Telegram"></a>
-<a href="t.me/OpFriDay"><img src="https://img.shields.io/badge/Stark-1b77FF.svg?logo=telegram"></a>
-<a href="https://t.me/piroXpower"><img src="https://img.shields.io/badge/Blaze-1b77FF.svg?logo=Telegram"></a>
-<a href="t.me/jalim_munda"><img src="https://img.shields.io/badge/Harsh-1b77FF.svg?logo=telegram"></a>
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kuldiprathod/NOBITA_MUSIC_BOT)
 
 
 
-# Special Thanks To 💞
 
-- [Laky](https://github.com/Laky-64) for [pytgcalls](https://github.com/pytgcalls/pytgcalls)
-- [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
+
+#Special thanks
+
+[![Owner](https://t.me/Nobi_xxd)
+
 
 
